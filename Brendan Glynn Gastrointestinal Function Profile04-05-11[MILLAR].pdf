@@ -1,0 +1,7 @@
+.comicalHeader {
+	color:blue;
+	Font-family:"Comic Sans MS";
+	}
+	.redText {
+		color:red;
+	}
